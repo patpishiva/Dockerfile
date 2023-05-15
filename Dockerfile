@@ -1,3 +1,3 @@
 FROM ubuntu
 RUN apt-get update 
-RUN apt install curl
+RUN apt-get curl
